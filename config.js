@@ -2,4 +2,4 @@
  * GOOGLE_CLIENT_ID: معرّف عميل OAuth من النوع Web — يُسمح بظهوره في المتصفح.
  * APPS_SCRIPT_URL : رابط تطبيق الويب المنشور (ينتهي بـ /exec).
  * اتركهما فارغين لتشغيل التطبيق محلياً على هذا الجهاز فقط. */
-window.IPD_CONFIG = { GOOGLE_CLIENT_ID: '', APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbx71vq32VqdWNPzeAzamdssXW4CIsYBxFjYAv2zjCybmk6TeVZutG5D6C1b7-x03mwC/exec' };
+window.IPD_CONFIG = { GOOGLE_CLIENT_ID: '737772178125-8n6v0coqf5dugb4583atc5c1rq9ua8cs.apps.googleusercontent.com', APPS_SCRIPT_URL: 'https://script.google.com/macros/s/AKfycbx71vq32VqdWNPzeAzamdssXW4CIsYBxFjYAv2zjCybmk6TeVZutG5D6C1b7-x03mwC/exec' };
